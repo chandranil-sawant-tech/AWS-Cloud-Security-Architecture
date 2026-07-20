@@ -10,7 +10,7 @@ The objective of this project is to design a secure, scalable, and highly availa
 
 # Architecture Diagram
 
-![AWS Cloud Security Architecture](Evidence/08_AWS_Cloud_Security_Architecture_Diagram.png)
+![AWS Cloud Security Architecture](Evidence/08_AWS_Architecture_Diagram.png)
 
 ---
 
