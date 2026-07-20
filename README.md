@@ -119,7 +119,7 @@ aws-cloud-security-architecture/
 
 ## Step 4 – AWS Shape Libraries Loaded
 
-![Shape Libraries Loaded](Evidence/04_AWS2026_Shape_Libraries_Loaded.png)
+![Shape Libraries Loaded](Evidence/04_AWS2026_Shape_Libraries__Loaded.png)
 
 ---
 
