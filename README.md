@@ -113,37 +113,37 @@ aws-cloud-security-architecture/
 
 ## Step 3 – AWS 2026 Shapes Selection
 
-![AWS Shapes Selection](evidence/03_AWS2026_Shapes_Selection.png)
+![AWS Shapes Selection](Evidence/03_AWS2026_Shapes_Selection.png)
 
 ---
 
 ## Step 4 – AWS Shape Libraries Loaded
 
-![Shape Libraries Loaded](evidence/04_AWS2026_Shape_Libraries_Loaded.png)
+![Shape Libraries Loaded](Evidence/04_AWS2026_Shape_Libraries_Loaded.png)
 
 ---
 
 ## Step 5 – AWS Network & Content Delivery Icons
 
-![AWS Network Icons](evidence/05_AWS_Network_Content_Delivery_Icons.png)
+![AWS Network Icons](Evidence/05_AWS_Network_Content_Delivery_Icons.png)
 
 ---
 
 ## Step 6 – EC2 Search Results
 
-![EC2 Search Results](evidence/06_EC2_Search_Results.png)
+![EC2 Search Results](Evidence/06_EC2_Search_Results.png)
 
 ---
 
 ## Step 7 – AWS Components Placed on Canvas
 
-![Components Placed](evidence/07_AWS_Components_Placed_On_Canvas.png)
+![Components Placed](Evidence/07_AWS_Components_Placed_On_Canvas.png)
 
 ---
 
 ## Step 8 – Final AWS Cloud Security Architecture
 
-![AWS Cloud Security Architecture](evidence/08_AWS_Cloud_Security_Architecture_Diagram.png)
+![AWS Cloud Security Architecture](Evidence/08_AWS_Architecture_Diagram.png)
 
 ---
 
