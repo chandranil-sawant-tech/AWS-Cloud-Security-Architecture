@@ -101,19 +101,19 @@ aws-cloud-security-architecture/
 
 ## Step 1 – diagrams.net Dashboard
 
-![Diagrams.net Dashboard](evidence/01_Diagrams.net_Dashboard.png)
+![Diagrams.net Dashboard](Evidence/01_Diagrams.net_Dashboard.png)
 
 ---
 
 ## Step 2 – More Shapes Menu
 
-![More Shapes Menu](evidence/02_More_Shapes_Menu.png)
+![More Shapes Menu](Evidence/02_More_Shapes_Menu.png)
 
 ---
 
 ## Step 3 – AWS 2026 Shapes Selection
 
-![AWS Shapes Selection](Evidence/03_AWS2026_Shapes_Selection.png)
+![AWS Shapes Selection](Evidence/03_AWS2026_Shape_Selection.png)
 
 ---
 
