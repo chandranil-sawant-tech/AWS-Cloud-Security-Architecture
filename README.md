@@ -107,7 +107,7 @@ aws-cloud-security-architecture/
 
 ## Step 2 – More Shapes Menu
 
-![More Shapes Menu](Evidence/02_More_Shapes_Menu.png)
+![More Shapes Menu](Evidence/02_More_Shapes_Manu.png)
 
 ---
 
